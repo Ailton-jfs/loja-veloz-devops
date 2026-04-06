@@ -105,6 +105,12 @@ http://localhost:30007
 
 ---
 
+## Execução no Kubernetes
+
+![Pods](./prints/pods.png)
+
+![Aplicação](./prints/App.png)
+
 ## Tecnologias utilizadas
 
 * Node.js
