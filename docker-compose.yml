@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  pedidos:
+    build: ./pedidos
+    ports:
+      - "3001:3001"
+
+  pagamentos:
+    build: ./pagamentos
+    ports:
+      - "3002:3002"
+
+  estoque:
+    build: ./estoque
+    ports:
+      - "3003:3003"
