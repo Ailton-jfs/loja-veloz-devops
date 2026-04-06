@@ -94,6 +94,9 @@ kubectl get services
 
 ---
 
+<img width="605" height="165" alt="image" src="https://github.com/user-attachments/assets/e50e222a-7274-4b34-bc93-bdd69b0a2212" />
+
+
 ## Acesso
 
 Após subir no Kubernetes, o serviço pode ser acessado via:
