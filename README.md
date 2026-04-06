@@ -126,6 +126,12 @@ O principal objetivo foi entender, de forma prática:
 
 ---
 
+## Arquitetura
+
+A aplicação segue uma arquitetura de microsserviços, onde cada serviço é independente e executado em seu próprio container.
+
+A comunicação entre os serviços é feita via HTTP.
+
 ## Observações
 
 Este projeto foi desenvolvido com fins acadêmicos, com foco no aprendizado dos conceitos de DevOps e não em regras de negócio complexas.
